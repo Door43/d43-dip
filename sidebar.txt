@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dip:home|Door43 (dip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dip|d43-dip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dip/archive/master.zip|d43-dip.zip]]
+
+**Recent Changes**
+{{changes>ns = dip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dip|Ethnologue data]]
+
